@@ -1,11 +1,10 @@
-# A Basic Demo of the Tableau Web Data Connector with an SDMX-JSON API Using ABS Data
+# Trying to do the same with norwegian statistics www.ssb.no
 
 SDMX-JSON WDC Example
 ---------------
 A very basic example of using Tableau's WDC to connect to the Australian Bureau of Statistics (ABS) SDMX-JSON API, I couldnt find any other reference examples of connectors to the huge ABS dataset so hopefully this will be useful to someone out there!
 
 ..
-Trying to do the same with norwegian statistics www.ssb.no
 References
 ---------------
 http://www.abs.gov.au/websitedbs/D3310114.nsf/home/ABSstat+User+Assistance+Material  
